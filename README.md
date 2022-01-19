@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FrontCovid api](https://github.com/EliedersonLinhares/FrontCovid)
 
-- 🌱 I’m currently learning **NodeJS,react**
+- 🌱 I’m currently learning **Java/Spring, NodeJS, react**
 
 - ⚡ Fun fact **I'm working whit 3d modeler too. Visit https://www.artstation.com/wtlion**
 
