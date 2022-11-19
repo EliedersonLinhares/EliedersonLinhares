@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eliederson da Silva Linhares</h1>
 <h3 align="center">Java Software developer from Brazil</h3>
 
-- 🔭 I’m currently working on [FrontCovid api](https://github.com/EliedersonLinhares/FrontCovid)
+- 🔭 I’m currently working on [Angular14 Cookie Auth](https://github.com/EliedersonLinhares/Angular14-CookieAuth)
 
-- 🌱 I’m currently learning **Java/Spring, NodeJS, react**
+- 🌱 I’m currently learning **Java/Spring, NodeJS, react,Angular**
 
 - ⚡ Fun fact **I'm working whit 3d modeler too. Visit https://www.artstation.com/wtlion**
 
